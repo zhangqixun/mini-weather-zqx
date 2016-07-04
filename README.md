@@ -1,1 +1,1 @@
-*mini-weather
+# mini-weather
