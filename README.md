@@ -15,7 +15,7 @@
 * Android基础实验电子教程（GitBook）: [https://www.gitbook.com/book/zhangqx/android-lab-doc/details](https://www.gitbook.com/book/zhangqx/android-lab-doc/details)
 * Android基础实验源码： [https://github.com/zhangqixun/Android-Lab](https://github.com/zhangqixun/Android-Lab)
 * Mini天气预报案例电子教程（GitBook）: [https://www.gitbook.com/book/zhangqx/mini-weather/details](https://www.gitbook.com/book/zhangqx/mini-weather/details)
-* Mini天气预报源码： [https://github.com/zhangqixun/Android-MiniWeather](https://github.com/zhangqixun/Android-MiniWeather)
+* Mini天气预报源码： [https://github.com/zhangqixun/mini-weather-zqx](https://github.com/zhangqixun/mini-weather-zqx)
 * 北京大学移动应用软件开发课程教学网站： [http://mobile100.zhangqx.com/](http://mobile100.zhangqx.com/)
 * COOC-China: [https://cooc-china.github.io/](https://cooc-china.github.io/)
 
