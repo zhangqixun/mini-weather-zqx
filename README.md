@@ -1,6 +1,4 @@
-# mini-weather
-## 所涉及的技术
-
+# mini-weather课堂教学案例源码
 
 ## 教学建议
 
