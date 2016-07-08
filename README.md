@@ -1,5 +1,5 @@
 # mini-weather课堂教学案例源码
-
+![icon](http://mobile100.zhangqx.com/assets/images/lp2.jpg)
 ## 教学建议
 
 1. 课堂老师至少要完成三件事：上次课复习、本次课讲解及实验、课堂实践
